@@ -54,3 +54,5 @@ link: https://agritech.tnau.ac.in/itk/IndigenousTechKnowledge_Crop_Rice.html fol
 
 TNAU / Govt of TN
 link: http://www.agritech.tnau.ac.in/org_farm/orgfarm_pestanddisease.html
+
+our main features is to make this project reach local farmers and make it cost free agriculture so we find WhatsApp to be Main feature but whatsapp required buisness account and payment is not been used
