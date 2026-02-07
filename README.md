@@ -31,7 +31,8 @@ XGBoost-ONNX Pest Classification
 
 ML is trained under this below data sets to identify pest and damaged crop
 
-since 3 data sets required alot of training load it takes total of 7 hours to train 50 epoch(number of iterations and single iterations container more than 3000 images)
+since 3 data sets required alot of training load it takes total of 7 hours to train 50 epoch(number of iterations and single iterations contains more than 3000 images)
+
 Dataset 1: Pest Dataset V2
  Name: Pest Dataset V2
 Content: 16 pest classes (Aphids, Weevils, Beetles, etc.)
