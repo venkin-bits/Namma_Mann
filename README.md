@@ -1,4 +1,4 @@
-*The Vision: Namma Mann (Our Soil)*
+*The Vision: Namma Mann MVP (Our Soil)*
 
 Namma Mann is an AI-powered ITK (Indigenous Technical Knowledge) implementation engine designed to bridge the gap between traditional agricultural wisdom and modern scientific validation. For decades, farmers in the Coimbatore region have shifted toward chemical pesticides because they offer "standardized" and "fast" results, whereas traditional methods are often perceived as "variable" or "unproven." Namma Mann changes this narrative by digitizing local knowledge and backing it with scientific data to provide farmers with a reliable, cost-effective, and soil-friendly alternative.
 
